@@ -20,7 +20,7 @@ export default function AboutMe() {
             <div className="w-64 h-64 rounded-full overflow-hidden shadow-lg mb-8 md:mb-0">
               <img
                 src="https://via.placeholder.com/250"
-                alt="Sabareesh Profile"
+                alt="Gokul Profile"
                 className="w-full h-full object-cover"
               />
             </div>
@@ -34,7 +34,7 @@ export default function AboutMe() {
             <ScrollAnimation animateIn="slideInRight" initiallyVisible={true}>
               <p className="mb-4">
                 Hey, I'm{" "}
-                <span className="text-teal-400 font-semibold">Sabareesh</span>,
+                <span className="text-teal-400 font-semibold">Gokul</span>,
                 a passionate Web Developer driven by the thrill of building
                 powerful, scalable, and user-focused digital experiences. My
                 journey revolves around crafting web applications that not only
